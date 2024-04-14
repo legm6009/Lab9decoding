@@ -1,4 +1,4 @@
-
+# Understanding the purpose and usefulness of version control
 def encoder(password):
     new_password = ""
     for char in password:
